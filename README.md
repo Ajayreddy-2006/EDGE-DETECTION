@@ -23,8 +23,9 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
 ### Code:
-T Ajay
-212223230007
+ T Ajay
+
+ 212223230007
 ## Original:
 ```
 import cv2
